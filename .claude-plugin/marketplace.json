@@ -1,1 +1,11 @@
-
+{
+  "schema_version": "1.0",
+  "name": "nd-adapter",
+  "description": "Communication adapter for neurodivergent AI users. Covers dyslexia, ADHD, autism, and dyspraxia.",
+  "skills": [
+    {
+      "name": "nd-adapter",
+      "path": "skills/nd-adapter"
+    }
+  ]
+}
