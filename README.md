@@ -36,7 +36,7 @@ The skill also includes a guided builder for creating your own ND-Adapter for a 
 
 Who made this
 
-Created by thee author from lived experience, through a human-led, AI-supported process. The concept, structure, categories, and reasoning came from lived experience of ND communication needs. AI was used as an editing tool to tighten language and formatting — not to generate the ideas or design.
+Created by the author from lived experience, through a human-led, AI-supported process. The concept, structure, categories, and reasoning came from lived experience of ND communication needs. AI was used as an editing tool to tighten language and formatting — not to generate the ideas or design.
 
 Full transparency note in setup-and-origin.md.
 
