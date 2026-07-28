@@ -17,7 +17,7 @@ Note: menu locations change over time. If the steps don't match what the user se
 
 ## Origin and transparency
 
-The ND-Adapter was created by Mark Lavender through a human-led, AI-supported process. The concept, structure, categories, A/B test design, and reasoning came from lived experience of ND communication needs; AI (Copilot) was used as an editor to tighten language and formatting. Mark remained the conceptual lead and final human-in-the-loop reviewer.
+The ND-Adapter was created by thee author from lived experience through a human-led, AI-supported process. The concept, structure, categories, A/B test design, and reasoning came from lived experience of ND communication needs; AI (Copilot) was used as an editor to tighten language and formatting. Mark remained the conceptual lead and final human-in-the-loop reviewer.
 
 Core design principle: **the adaptation burden sits with the AI system, not the ND user.** The tool changes the interface, not the person. Specialised vocabulary and authentic communication style are preserved, never "corrected".
 
