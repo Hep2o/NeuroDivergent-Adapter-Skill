@@ -52,9 +52,10 @@ Q1 to Q3 show clearer output. Q4 shows what makes the ND-Adapter different. It e
 What's in this repo
 File	What it is
 nd-adapter-skill.md	The full skill, including toggle, builder workflow, and evidence data
-canonical-prompts.md	The short-form and long-form ND-Adapter prompts, ready to copy and paste
+canonical-prompts.md	The short and long form ND-Adapter prompts, ready to copy and paste
 setup-and-origin.md	Setup instructions for Claude, Copilot, and ChatGPT, plus the transparency note
 Quick start
+ND_Adapter_Builder.xlsx Interactive prompt builder. Flip Yes/No dropdowns, copy the generated prompt. No reading required
 Open canonical-prompts.md
 Copy the short-form prompt (or long-form if you want granular control)
 Paste it into your AI system's custom instructions or at the start of a conversation
