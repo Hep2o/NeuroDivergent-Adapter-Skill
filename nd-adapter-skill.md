@@ -189,4 +189,4 @@ These figures support the argument that ND-friendly design is not a niche accomm
 
 ## Origin Note
 
-This skill is based on the ND-Adapter tool created by Mark Lavender — a prompt-based communication adaptation layer designed from lived experience. The tool was built on the principle that the adaptation burden should sit with the AI system, not with the ND user. This skill extends that principle into a reusable builder workflow so others can create context-specific versions for their own teams and communities.
+This skill is based on the ND-Adapter tool created by the  author, a prompt-based communication adaptation layer designed from lived experience. The tool was built on the principle that the adaptation burden should sit with the AI system, not with the ND user. This skill extends that principle into a reusable builder workflow so others can create context-specific versions for their own teams and communities.
