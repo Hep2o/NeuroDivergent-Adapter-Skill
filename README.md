@@ -10,6 +10,8 @@ It covers four ND profiles: dyslexia, ADHD, autism, and dyspraxia. It works acro
 
 Core principle: the adaptation burden sits with the AI, not the person. The tool changes the interface, not the user.
 
+Don't want to read anything? Download ND_Adapter_Builder.xlsx, flip a few Yes/No dropdowns, and copy your personalised prompt. Done in under a minute.
+
 Before / After
 
 Q1 Summarise a project update:
