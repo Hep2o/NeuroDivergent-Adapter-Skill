@@ -10,6 +10,45 @@ It covers four ND profiles: dyslexia, ADHD, autism, and dyspraxia. It works acro
 
 Core principle: the adaptation burden sits with the AI, not the person. The tool changes the interface, not the user.
 
+Before / After
+
+Q1 — Summarise a project update:
+
+Without ND-Adapter	With ND-Adapter
+The supplier may deliver the parts on Thursday, but the date is uncertain due to a backlog. If the delivery is delayed, the testing schedule will need to be adjusted. The documentation folder may also be missing the latest version and needs to be reviewed.	Here are the main points:
+• parts might arrive Thursday, but not confirmed
+• if they don't arrive, testing will need to move
+• the documentation folder may be missing the latest version
+
+Q2 — Simplify a technical explanation:
+
+Without ND-Adapter	With ND-Adapter
+The system works only when run in a specific sequence. If the sequence isn't followed, it triggers a false error caused by a leftover flag from the previous run. Resetting the workflow may resolve the issue.	Here is a simpler version:
+• the system works, but only in a set order
+• running it out of order shows a false error
+• the error is a leftover flag from the last run
+• resetting the workflow might fix it
+
+Q3 — Pull key points from a messy email:
+
+Without ND-Adapter	With ND-Adapter
+The sender needs to reschedule the meeting because they are double booked. They are available later today or tomorrow morning and are open to whichever time works best.	Key points:
+• they need to move the meeting
+• they're double booked with a call they can't move
+• they're free later today or tomorrow morning
+
+Q4 — Handle fragmented, non-linear input:
+
+Input	Without ND-Adapter	With ND-Adapter
+"hmm it needs the accual example like um! lets do it, summarise the conversation in A/B test form"	You asked for an example that demonstrates the difference between a normal summary and an ND-Adapter summary. Throughout the conversation, we developed the ND-Adapter prompt, created divergent prompts, and built A/B examples. You then requested a full summary using your exact wording without corrections.	Here is the summary:
+• you asked for an A/B example
+• we built the ND-Adapter rules
+• we added the quick-use version
+• we created Q1–Q4 tests
+• you asked for the conversation to be summarised using your exact wording
+
+Q1–Q3 show clearer output. Q4 shows what makes the ND-Adapter different — it extracts intent from fragmented, non-linear input instead of asking you to rephrase.
+
 What's in this repo
 File	What it is
 nd-adapter-skill.md	The full skill — toggle, builder workflow, and evidence data
@@ -36,7 +75,7 @@ The skill also includes a guided builder for creating your own ND-Adapter for a 
 
 Who made this
 
-Created by the author from lived experience, through a human-led, AI-supported process. The concept, structure, categories, and reasoning came from lived experience of ND communication needs. AI was used as an editing tool to tighten language and formatting — not to generate the ideas or design.
+Created through a human-led, AI-supported process. The concept, structure, categories, and reasoning came from lived experience of ND communication needs. AI was used as an editing tool to tighten language and formatting — not to generate the ideas or design.
 
 Full transparency note in setup-and-origin.md.
 
